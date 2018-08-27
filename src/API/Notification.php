@@ -186,6 +186,8 @@ class Notification
                 'small_icon' => 'string',
                 'large_icon' => 'string',
                 'chrome_web_icon' => 'string',
+                'chrome_web_image' => 'string',
+                'chrome_web_badge' => 'string',
                 'firefox_icon' => 'string',
                 'adm_small_icon' => 'string',
                 'adm_large_icon' => 'string',
